@@ -1,0 +1,14 @@
+### Android Studio ###
+.DS_Store
+/.gradle
+/.idea
+/Capstone.iml
+/build
+/captures
+/local.properties
+
+### Emacs ###
+*~
+.*~
+.\#*
+\#*
